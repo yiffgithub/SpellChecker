@@ -1,0 +1,12 @@
+Hello world
+
+I will briely explain what need to be realized for this UI:
+
+First, this is a subclass, sub JFrame from the main java class page, called dictionary. There will be a button in the main page that invokes the pop up of this page.
+
+Second, the purple squares in the picture should be a display of stored list of array in which from the dictionary database. For this part, you can just hard coded the list of words for display, or put the code, as comments, in which they read a txt file that contains a list of words and display them in the purple square. For your information, each word is display in one purple box.
+
+Third, this page has four three. The delete words function in which will invoke a separate java class that stores the jframe called delete words. The edit words function is the same as delete words.(you do not need worry about delete and edit jframe, it is already written, I just need  the invocation) The reset button action will just like an undo action where the last action like edit word or delete word will be undo by this reset button. These three functions will change the content database or the file that contains the list of words.
+
+
+
